@@ -1,0 +1,1 @@
+echo $GOOGLE_APPLICATION_CREDENTIALS_FILE > google_application_credentials.json
