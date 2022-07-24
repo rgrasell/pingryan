@@ -1,4 +1,7 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
+# Frontend
+The frontend subdirectory contains the user interface for Pingryan. It's hosted on Netlify and is automatically deployed on merge to master.
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template. Default instructions for this setup are below.
 
 ## Available Scripts
 
